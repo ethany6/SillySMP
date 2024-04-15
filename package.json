@@ -3,11 +3,11 @@
   "version": "2.2.1",
   "productName": "Silly Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Ethan Y (https://github.com/ethany6)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/ethany6/SillySMP",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/ethany6/SillySMP/issues"
   },
   "private": true,
   "main": "index.js",
