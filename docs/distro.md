@@ -10,23 +10,22 @@ The distribution index is written in JSON. The general format of the index is as
 {
     "version": "1.0.0",
     "discord": {
-        "clientId": "12334567890123456789",
-        "smallImageText": "WesterosCraft",
+        "clientId": "821197094618267688",
+        "smallImageText": "Silly SMP",
         "smallImageKey": "seal-circle"
     },
-    "rss": "https://westeroscraft.com/articles/index.rss",
     "servers": [
         {
-            "id": "Example_Server",
+            "id": "Saf Silly SMP",
             "name": "WesterosCraft Example Client",
             "description": "Example WesterosCraft server. Connect for fun!",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
             "version": "0.0.1",
-            "address": "mc.westeroscraft.com:1337",
-            "minecraftVersion": "1.11.2",
+            "address": "smp.safsilly.shop:8005",
+            "minecraftVersion": "1.20.4",
             "discord": {
                 "shortId": "Example",
-                "largeImageText": "WesterosCraft Example Server",
+                "largeImageText": "Silly SMP",
                 "largeImageKey": "server-example"
             },
             "mainServer": true,
@@ -461,7 +460,7 @@ Ex.
     "MD5": "a43d5a142246801343b6cedef1c102c4",
     "url": "http://localhost:8080/repo/lib/net/fabricmc/fabric-loader/0.15.0/fabric-loader-0.15.0.jar"
     },
-    "subModules": [
+    "subModules": 
     {
         "id": "1.20.1-fabric-0.15.0",
         "name": "Fabric (version.json)",
