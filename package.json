@@ -1,11 +1,11 @@
 {
-  "name": "SillySMP",
+  "name": "helioslauncher",
   "version": "2.2.1",
-  "productName": "Silly SMP Launcher",
+  "productName": "Helios Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Ethan (https://github.com/ethany6)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/ethany6/SillySMP",
+  "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
     "url": "https://github.com/dscalzi/HeliosLauncher/issues"
   },
